@@ -1,0 +1,23 @@
+{
+  "name": "discord-bot-yui",
+  "version": "1.0.0",
+  "description": "Discord bot of \"Game Design Universe\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NTUT-Game-Design/discord-bot-Yui.git"
+  },
+  "author": "Game Design Universe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NTUT-Game-Design/discord-bot-Yui/issues"
+  },
+  "homepage": "https://github.com/NTUT-Game-Design/discord-bot-Yui#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "save": "^2.4.0"
+  }
+}

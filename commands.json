@@ -1,0 +1,6 @@
+{
+  "commands": {
+    "transfer": "transfer",
+    "fcdis": "FC-Dis"
+  }
+}
